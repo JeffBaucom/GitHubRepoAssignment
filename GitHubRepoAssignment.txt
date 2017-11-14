@@ -1,0 +1,8 @@
+>Created remote repository on GitHub
+>Created local directory
+>Initialized local git repository
+>Add and edit a local readme.md file
+>Add and commit local changes
+>Add GitHub repository as a remote origin
+>Push local changes to GitHub
+
